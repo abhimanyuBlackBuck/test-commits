@@ -1,4 +1,4 @@
 ### Test Repo
 
-- Test SSH keys and pushes
+- Test SSH keys, email and pushing
 - Test signed commits
